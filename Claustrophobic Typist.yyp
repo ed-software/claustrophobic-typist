@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": false,
     "configs": [
-        
+        "default"
     ],
     "option_ecma": false,
     "parentProject": {
@@ -30,6 +30,14 @@
         "projectPath": "${base_project}"
     },
     "resources": [
+        {
+            "Key": "05dd4fdb-d75d-489f-a972-59bb38c0375c",
+            "Value": {
+                "id": "c3add9b2-7cbb-4646-b7ed-11603eb90afb",
+                "resourcePath": "sprites\\background_sprite\\background_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
         {
             "Key": "0843d15d-bfdc-4084-8248-a210727bfa2b",
             "Value": {
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "dc63b8c4-75aa-4c82-a12b-2500dcf98a63",
+            "Value": {
+                "id": "1b277940-0847-4aa9-9194-a8abd06a43cd",
+                "resourcePath": "scripts\\darkenBackground\\darkenBackground.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "de0966da-9f86-4fae-aa87-b0f24e0d52ef",
             "Value": {
                 "id": "9e4b64c0-fde7-44b3-b0c9-bd62e674972b",
@@ -332,6 +348,14 @@
                 "id": "532e55be-1dbb-4fae-8d83-6ac796314a2a",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "ea78138e-149c-4fb7-a660-fab30ddbbf29",
+            "Value": {
+                "id": "872f83c9-fd26-4c82-b676-48db09db68e2",
+                "resourcePath": "objects\\background_object\\background_object.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -385,7 +409,8 @@
     ],
     "script_order": [
         "91d77d37-6256-4b0e-acfd-cc37a60d8792",
-        "97e751f8-f48e-4d2b-96f6-2add20fb8d23"
+        "97e751f8-f48e-4d2b-96f6-2add20fb8d23",
+        "dc63b8c4-75aa-4c82-a12b-2500dcf98a63"
     ],
     "tutorial": ""
 }
