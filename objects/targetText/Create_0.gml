@@ -14,3 +14,4 @@ while !file_text_eof(file)
 file_text_close(file);
 global.index = 0;
 global.target_text = global.words[| global.index];
+global.target_word = global.words[| global.index];

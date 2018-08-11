@@ -3,6 +3,7 @@
 
 // global.words[| irandom(ds_list_size(global.words) - 1)];
 
-draw_set_colour(c_lime);
-draw_set_font(fontCourierNew);
-draw_text(832, 704, global.target_text);
+draw_set_colour(c_white);
+draw_set_font(BubbleGum);
+draw_set_halign(fa_center);
+draw_text(room_width/2, 828, global.target_text);

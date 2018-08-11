@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "c351f4f7-c6e2-4954-8e75-efd6b90c7199",
+            "Value": {
+                "id": "2f88464d-d7f7-46e6-95f6-849c894c15d0",
+                "resourcePath": "fonts\\BubbleGum\\BubbleGum.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "c4edbede-1813-4cff-a050-59f3c3c10db5",
             "Value": {
                 "id": "1e305a4f-84ae-44b3-a615-ce1cdad20360",
@@ -359,6 +367,22 @@
             }
         },
         {
+            "Key": "f1acdf20-38a0-4b95-b917-c521ae05bc4b",
+            "Value": {
+                "id": "fb22d0d3-0493-4d30-aa84-d3ac682e0f36",
+                "resourcePath": "sounds\\bgmusic\\bgmusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f3321137-735f-49ee-805c-70aa92c77319",
+            "Value": {
+                "id": "309971b5-6aa2-4d98-a715-c3686b7fa71a",
+                "resourcePath": "scripts\\slowMusic\\slowMusic.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "c149e9c7-e5e3-4b5b-a7fe-7b71f8988579",
@@ -410,7 +434,8 @@
     "script_order": [
         "91d77d37-6256-4b0e-acfd-cc37a60d8792",
         "97e751f8-f48e-4d2b-96f6-2add20fb8d23",
-        "dc63b8c4-75aa-4c82-a12b-2500dcf98a63"
+        "dc63b8c4-75aa-4c82-a12b-2500dcf98a63",
+        "f3321137-735f-49ee-805c-70aa92c77319"
     ],
     "tutorial": ""
 }
