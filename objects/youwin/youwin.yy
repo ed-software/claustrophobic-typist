@@ -1,8 +1,8 @@
 {
-    "id": "151288dc-58ac-4e94-9052-b2e7a52a815d",
+    "id": "568b5635-5c43-47c3-9ce8-cc09e7f53eb1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object3",
+    "name": "youwin",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "78a95ee7-7854-438f-8273-7c76e8daacb5",
+    "spriteId": "de0966da-9f86-4fae-aa87-b0f24e0d52ef",
     "visible": true
 }
