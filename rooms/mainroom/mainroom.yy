@@ -9,7 +9,8 @@
     "instanceCreationOrderIDs": [
         "2b8747fa-e0b0-47df-b6e1-b9bb7810e573",
         "45977525-f772-4188-ba60-9f6687ce1923",
-        "fa2fcb6b-f80c-4240-b6a1-4eaa5169a303"
+        "fa2fcb6b-f80c-4240-b6a1-4eaa5169a303",
+        "2e73e6c3-69bc-49f3-a438-da3c777befd4"
     ],
     "IsDnD": false,
     "layers": [
@@ -27,9 +28,10 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_6505F4B7","id": "2b8747fa-e0b0-47df-b6e1-b9bb7810e573","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_6505F4B7.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6505F4B7","objId": "95abf479-b03c-4d7a-b037-2bbe5ceb065e","properties": null,"rotation": 0,"scaleX": 10,"scaleY": 10,"mvc": "1.0","x": 544,"y": 256},
+{"name": "inst_6505F4B7","id": "2b8747fa-e0b0-47df-b6e1-b9bb7810e573","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_6505F4B7.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6505F4B7","objId": "95abf479-b03c-4d7a-b037-2bbe5ceb065e","properties": null,"rotation": 0,"scaleX": 16.5,"scaleY": 12.5,"mvc": "1.0","x": 534.5,"y": 281.5},
 {"name": "inst_1F692C8E","id": "45977525-f772-4188-ba60-9f6687ce1923","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1F692C8E","objId": "1c41f3ab-3c5e-4582-9739-2bf5cdb58fa4","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 320,"y": 704},
-{"name": "inst_1680D4F5","id": "fa2fcb6b-f80c-4240-b6a1-4eaa5169a303","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1680D4F5","objId": "24f62e65-9130-4aaa-86fb-9fc5f20636d4","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 832,"y": 704}
+{"name": "inst_1680D4F5","id": "fa2fcb6b-f80c-4240-b6a1-4eaa5169a303","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1680D4F5","objId": "24f62e65-9130-4aaa-86fb-9fc5f20636d4","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 832,"y": 704},
+{"name": "inst_DF7F0C1","id": "2e73e6c3-69bc-49f3-a438-da3c777befd4","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_DF7F0C1","objId": "684f64e9-6f6e-4f54-bbe5-095e4fef8c4d","properties": null,"rotation": 0.03426402,"scaleX": 1.100946,"scaleY": 0.7999999,"mvc": "1.0","x": 1088,"y": 256}
             ],
             "layers": [
 
@@ -47,7 +49,7 @@
             "id": "b9a504f0-7bcb-4ce8-aaeb-37ad71536ee0",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4294967295 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,

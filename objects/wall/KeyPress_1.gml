@@ -8,6 +8,8 @@ if (global.target_text == global.current_word) {
 		room_goto(winroom);
 	}
 	global.shrinkBy = string_length(global.target_text) / 250;
+	global.growByFullWord = string_length(global.target_text) / 50;
+
 	global.target_text = global.words[| global.index];
 	show_debug_message("Current shrink speed: " + string(global.shrinkBy))
 	keyboard_string = "";

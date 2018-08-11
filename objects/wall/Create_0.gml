@@ -5,5 +5,5 @@ timeCurrent = current_time;
 interval = 50; // interval of 50 milliseconds
 
 global.shrinkBy = 0.008;
-global.growByFullWord = 0.02;
+global.growByFullWord = 0.03
 global.growByCorrectCharacter = 0.01;
