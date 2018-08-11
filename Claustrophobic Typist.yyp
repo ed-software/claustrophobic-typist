@@ -39,11 +39,27 @@
             }
         },
         {
+            "Key": "1c41f3ab-3c5e-4582-9739-2bf5cdb58fa4",
+            "Value": {
+                "id": "782bd1d2-a268-4381-bee4-f459286aa079",
+                "resourcePath": "objects\\input_box\\input_box.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f49e0a9-a170-4111-98ac-e8dcf3a83a59",
             "Value": {
                 "id": "fc045745-28dc-4306-9031-200ba87bcd16",
                 "resourcePath": "views\\1f49e0a9-a170-4111-98ac-e8dcf3a83a59.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "24f62e65-9130-4aaa-86fb-9fc5f20636d4",
+            "Value": {
+                "id": "3f11f366-31a5-43bb-ab27-afc818a5930a",
+                "resourcePath": "objects\\targetText\\targetText.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -103,6 +119,14 @@
             }
         },
         {
+            "Key": "7b198d1c-6e88-4418-b480-051fe14bd038",
+            "Value": {
+                "id": "4a4f5232-d46d-4aa8-ad7d-2dde1219e3c9",
+                "resourcePath": "sprites\\wall_1\\wall_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "2c4ba823-090b-4782-8c64-fb26a525ebcd",
@@ -116,6 +140,22 @@
                 "id": "65c49809-683e-4398-8d2f-865e2fad324c",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "91918927-f6bf-4865-b1cd-78c6ca976571",
+            "Value": {
+                "id": "d3efaea4-9eee-4f1a-8a1d-8dfb22d4c1cc",
+                "resourcePath": "fonts\\fontCourierNew\\fontCourierNew.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "95abf479-b03c-4d7a-b037-2bbe5ceb065e",
+            "Value": {
+                "id": "7d581dff-c3f5-4767-942e-6a4476e038bd",
+                "resourcePath": "objects\\wall\\wall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
