@@ -11,6 +11,6 @@ while !file_text_eof(file)
 	ds_list_add(global.words, file_text_read_string(file))
     file_text_readln(file);
 }
-
+file_text_close(file);
 global.index = 0;
 global.target_text = global.words[| global.index];
