@@ -12,6 +12,6 @@ while !file_text_eof(file)
     file_text_readln(file);
 }
 file_text_close(file);
-global.index = 0;
+global.index = random_range(0, 1000);
 global.target_text = global.words[| global.index];
 global.target_word = global.words[| global.index];

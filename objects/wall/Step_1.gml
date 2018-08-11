@@ -9,6 +9,7 @@ if (timeCurrent - timeInit >= interval) { // if the difference between our curre
 	 if (image_xscale <= global.terminateOnWallSize) {
 		keyboard_string = "";
 		room_goto(failroom);
+		show_debug_message(global.wordCount/((current_time-global.timeRoomStart)/(1000*60)));
 	 }
      timeInit = timeCurrent; // update the time to compare to
 	 
