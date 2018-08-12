@@ -3,7 +3,7 @@
 
 //randomize();
 var file = file_text_open_read("words.txt");
-var i = 0;
+
 globalvar words;
 global.words = ds_list_create();
 while !file_text_eof(file)
@@ -12,6 +12,9 @@ while !file_text_eof(file)
     file_text_readln(file);
 }
 file_text_close(file);
+
+global.target_text = "type to begin";
+global.target_word = global.target_text;
 global.index = random_range(0, 1000);
-global.target_text = global.words[| global.index];
-global.target_word = global.words[| global.index];
+global.textColour = make_colour_rgb(255, 255, 255);
+global.textScale = 1;

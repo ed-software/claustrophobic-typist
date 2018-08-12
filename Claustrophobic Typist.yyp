@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "22145556-ee94-463e-807a-06a5c852ff1b",
+            "Value": {
+                "id": "de2b915c-ddd2-4eac-8a34-2f5c861b8fdb",
+                "resourcePath": "objects\\gameover\\gameover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "24f62e65-9130-4aaa-86fb-9fc5f20636d4",
             "Value": {
                 "id": "3f11f366-31a5-43bb-ab27-afc818a5930a",
@@ -124,6 +132,14 @@
                 "id": "ebd24896-31ca-43e0-b4ec-2035602e39d9",
                 "resourcePath": "sprites\\man\\man.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4370f060-cc49-45c6-b49d-f121b60b3e32",
+            "Value": {
+                "id": "0bb153d9-e1c5-4fe9-adf8-8ee393b798a6",
+                "resourcePath": "sounds\\wrong\\wrong.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -172,6 +188,14 @@
                 "id": "b2eca8c4-5e87-4be3-b80d-6192028c935e",
                 "resourcePath": "datafiles_yy\\sentences.json.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "756813c0-5b06-491d-851b-f91d7e090be2",
+            "Value": {
+                "id": "92bed516-85d3-40b1-aacc-89c9f30bbc82",
+                "resourcePath": "sounds\\correct\\correct.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -351,6 +375,14 @@
             }
         },
         {
+            "Key": "e319532d-2f53-4031-aa38-d4c53bc70f8e",
+            "Value": {
+                "id": "0766413d-bf99-43fd-89a2-835d1c971627",
+                "resourcePath": "scripts\\draw_text_shadow\\draw_text_shadow.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "532e55be-1dbb-4fae-8d83-6ac796314a2a",
@@ -435,7 +467,8 @@
         "91d77d37-6256-4b0e-acfd-cc37a60d8792",
         "97e751f8-f48e-4d2b-96f6-2add20fb8d23",
         "dc63b8c4-75aa-4c82-a12b-2500dcf98a63",
-        "f3321137-735f-49ee-805c-70aa92c77319"
+        "f3321137-735f-49ee-805c-70aa92c77319",
+        "e319532d-2f53-4031-aa38-d4c53bc70f8e"
     ],
     "tutorial": ""
 }
