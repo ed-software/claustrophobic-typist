@@ -11,6 +11,4 @@ if (timeCurrent - timeInit >= interval) { // if the difference between our curre
 		room_goto(failroom);
 	 }
      timeInit = timeCurrent; // update the time to compare to
-	 
-	 keyboard_string = string_replace_all(keyboard_string, " ", "");
 }

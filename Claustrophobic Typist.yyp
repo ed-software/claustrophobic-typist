@@ -63,10 +63,26 @@
             }
         },
         {
+            "Key": "0e541491-2745-47f4-aa54-1a33dc34d4bd",
+            "Value": {
+                "id": "159bb1d9-87a0-4c96-a85e-d316f6bf2418",
+                "resourcePath": "objects\\easy\\easy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "151288dc-58ac-4e94-9052-b2e7a52a815d",
             "Value": {
                 "id": "17af8f8c-cdf0-4fa1-b977-e9a9f28ebf57",
                 "resourcePath": "objects\\youlose\\youlose.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "176c9486-f9fa-43ee-816e-d8cbbfb7a06f",
+            "Value": {
+                "id": "6be25707-cbc2-40a3-8d3b-ac9b5446d3e4",
+                "resourcePath": "objects\\gameTitle\\gameTitle.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -167,10 +183,26 @@
             }
         },
         {
+            "Key": "58630a2e-de1b-48d6-9101-9439d1a6dcf9",
+            "Value": {
+                "id": "ef6873e6-b9ef-4067-acf9-5c9f3bc41061",
+                "resourcePath": "rooms\\difficulty\\difficulty.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "684f64e9-6f6e-4f54-bbe5-095e4fef8c4d",
             "Value": {
                 "id": "5e05a0ab-589c-4995-9b2e-60c208ef11c1",
                 "resourcePath": "objects\\objMan\\objMan.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "68f7c80f-152c-46f0-96df-0dd5cf9062cd",
+            "Value": {
+                "id": "264e6a68-ada5-40fa-901f-88fb4e395089",
+                "resourcePath": "objects\\blurredGame_object\\blurredGame_object.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -212,6 +244,14 @@
                 "id": "586b82a9-ffad-4dd5-9360-2877154796a3",
                 "resourcePath": "sprites\\failure\\failure.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "78ab0194-e9c9-403a-92c0-64103c199ac1",
+            "Value": {
+                "id": "62e8ff19-1d21-45e5-b1cb-197ee96f4b8d",
+                "resourcePath": "objects\\medium\\medium.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -263,6 +303,14 @@
             }
         },
         {
+            "Key": "92e7770a-3fc9-4143-ad01-d3bc1bbb70f8",
+            "Value": {
+                "id": "76a82b8b-d99e-4388-aa4c-ba8e0c006a45",
+                "resourcePath": "objects\\hard\\hard.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "95abf479-b03c-4d7a-b037-2bbe5ceb065e",
             "Value": {
                 "id": "7d581dff-c3f5-4767-942e-6a4476e038bd",
@@ -276,6 +324,14 @@
                 "id": "466cd695-cae0-4909-919f-79464f3197be",
                 "resourcePath": "scripts\\growWall\\growWall.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9a89019f-762d-4f82-bd24-e6c447c22bd0",
+            "Value": {
+                "id": "f1a80c5e-227a-49f7-b9f6-30101e70daaf",
+                "resourcePath": "rooms\\title\\title.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -316,6 +372,22 @@
                 "id": "3e557627-0368-4050-9049-80ea7de1a4f8",
                 "resourcePath": "views\\b189747d-151f-4777-899d-23bb86fa9743.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b89fd008-9842-4de3-a45c-8345c9636e3c",
+            "Value": {
+                "id": "994ea81a-dec5-4196-bcb8-a5b329f48e71",
+                "resourcePath": "objects\\difficultyGUI\\difficultyGUI.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ba9f46db-d440-4c74-a33f-db7206bedb6a",
+            "Value": {
+                "id": "91596bd9-587f-4efe-911c-df75ce44d805",
+                "resourcePath": "sprites\\blurredGame_sprite\\blurredGame_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

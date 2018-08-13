@@ -1,28 +1,18 @@
 {
-    "id": "22145556-ee94-463e-807a-06a5c852ff1b",
+    "id": "78ab0194-e9c9-403a-92c0-64103c199ac1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "gameover",
+    "name": "medium",
     "eventList": [
         {
-            "id": "3db4e0b0-9233-4460-b8dd-e9aa7ebd57f6",
+            "id": "4a3c2714-4e48-4333-a5c5-91efdd1067f9",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "22145556-ee94-463e-807a-06a5c852ff1b"
-        },
-        {
-            "id": "13abe065-74d4-424b-863f-df53f716af5e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 13,
-            "eventtype": 9,
-            "m_owner": "22145556-ee94-463e-807a-06a5c852ff1b"
+            "m_owner": "78ab0194-e9c9-403a-92c0-64103c199ac1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

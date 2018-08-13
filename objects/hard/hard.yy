@@ -1,28 +1,18 @@
 {
-    "id": "22145556-ee94-463e-807a-06a5c852ff1b",
+    "id": "92e7770a-3fc9-4143-ad01-d3bc1bbb70f8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "gameover",
+    "name": "hard",
     "eventList": [
         {
-            "id": "3db4e0b0-9233-4460-b8dd-e9aa7ebd57f6",
+            "id": "6d51c481-6d2b-4f88-bb89-ec682e2c0ff8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "22145556-ee94-463e-807a-06a5c852ff1b"
-        },
-        {
-            "id": "13abe065-74d4-424b-863f-df53f716af5e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 13,
-            "eventtype": 9,
-            "m_owner": "22145556-ee94-463e-807a-06a5c852ff1b"
+            "m_owner": "92e7770a-3fc9-4143-ad01-d3bc1bbb70f8"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
