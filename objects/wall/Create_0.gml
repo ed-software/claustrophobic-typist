@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+randomize();
 timeInit = current_time;
 timeCurrent = current_time;
 interval = 50; // interval of 50 milliseconds
