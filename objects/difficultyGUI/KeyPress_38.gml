@@ -10,3 +10,4 @@ if (global.difficultyTextColour[0] == make_colour_rgb(217, 87, 99)) {
 	global.difficultyTextColour[2] = c_white;
 	global.difficultyTextColour[1] = make_colour_rgb(217, 87, 99);
 }
+audio_play_sound(correct, 11, 0);

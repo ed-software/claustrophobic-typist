@@ -10,3 +10,4 @@ if (global.difficultyTextColour[0] == make_colour_rgb(217, 87, 99)) {
 }
 
 room_goto(mainroom);
+audio_play_sound(correct, 11, 0);

@@ -2,7 +2,6 @@ var darkLevel = 255;
 
 if (wall.image_xscale > global.terminateOnWallSize && wall.image_xscale < 0.75) {
 	darkLevel = 255*((wall.image_xscale-global.terminateOnWallSize)/(0.75-global.terminateOnWallSize));
-	show_debug_message("Inside IF");
 } 
 
 
