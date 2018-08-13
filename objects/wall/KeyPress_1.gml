@@ -2,6 +2,11 @@
 // You can write your code in this editor
 if (is_string(keyboard_lastchar)) {
 	var lastchar = keyboard_lastchar;
+	
+	if (global.target_text == undefined) {
+		global.target_text = "";	
+	}
+	
 
 	if (lastchar == string_char_at(global.target_text, 0)){
 		global.target_text = string_delete(global.target_text, 1, 1);
