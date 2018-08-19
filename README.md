@@ -1,2 +1,2 @@
-# LD42 Ludum Dare 42 
-# claustrophobic Typist
+# Claustrophobic Typist
+![gif](https://imgur.com/RZY8rAn.gif)
